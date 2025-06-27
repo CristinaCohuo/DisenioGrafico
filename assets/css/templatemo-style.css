@@ -283,28 +283,14 @@ html {
     right: 30%;
     left: 35%;
     background-color: #862c47;
-    position: absolute;
-    min-height: 75vh;
-    max-height: 85vh;
+    position: relative;
+    min-height: 100vh;
+    max-height: 100vh;
     padding-bottom: 80px;
     border-bottom: 3px solid rgba(163, 214, 67, 0.25);
 }
 
-.section-Publicidad {
-    color: #43d32f;
-    width: 30%;
-    height: 20%;
-    right: 10%;
-    left: 0%;
-    background-color: #862c47;
-    position: absolute;
-    min-height: 2vh;
-    max-height: 2vh;
-    padding-top: 0px;
-    bottom: 0px;
-    padding-bottom: 0px;
-    border-bottom: 3px solid rgba(163, 214, 67, 0.25);
-}
+
 .section {
     color: #fff;
     width: 55%;
