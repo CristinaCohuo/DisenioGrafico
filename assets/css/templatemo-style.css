@@ -65,7 +65,14 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #3087af;
+    margin: 1em 0;
+    padding: 0;
+}
 *,
 *:before,
 *:after {
